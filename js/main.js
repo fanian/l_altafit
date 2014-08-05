@@ -198,10 +198,10 @@
 			$(window).scroll(function(){	
 				if ($(this).scrollTop()>200)
 				{
-					$(".ex1").addClass('animated bounceIn');
+					$(".ex1").addClass('animated shake');
 					
 				}else{
-					$(".ex1").removeClass('animated bounceIn');
+					$(".ex1").removeClass('animated shake');
 				}
 			});
 				
@@ -440,30 +440,30 @@
 			$(window).scroll(function(){	
 				if ($(this).scrollTop()>2700)
 				{
-					$(".ex12").addClass('animated bounceIn');
+					$(".ex12").addClass('animated shake');
 					
 				}else{
-					$(".ex12").removeClass('animated bounceIn');
+					$(".ex12").removeClass('animated shake');
 				}
 			});
 			
 			$(window).scroll(function(){	
 				if ($(this).scrollTop()>4600)
 				{
-					$(".ex13").addClass('animated bounceIn');
+					$(".ex13").addClass('animated shake');
 					
 				}else{
-					$(".ex13").removeClass('animated bounceIn');
+					$(".ex13").removeClass('animated shake');
 				}
 			});
 			
 			$(window).scroll(function(){	
 				if ($(this).scrollTop()>7100)
 				{
-					$(".ex14").addClass('animated bounceIn');
+					$(".ex14").addClass('animated shake');
 					
 				}else{
-					$(".ex14").removeClass('animated bounceIn');
+					$(".ex14").removeClass('animated shake');
 				}
 			});
 
